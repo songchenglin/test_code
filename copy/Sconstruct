@@ -1,0 +1,2 @@
+Program('copy_by_char.c')
+Program('copy_by_buf.c')
