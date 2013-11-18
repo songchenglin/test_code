@@ -1,0 +1,2 @@
+Program('terminfo.c',
+        LIBS='ncurses')
